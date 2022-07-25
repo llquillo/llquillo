@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @llquillo
-- 👀 I’m interested in Mobile & Web Development
-- 🌱 I’m currently learning Flutter, Python, Django 
-- 💞️ I’m looking to collaborate on ...
+- 💕 Hi, I’m @llquillo
+- 👀 I’m interested in Programming in general! <3
+- 🌱 I’m currently reviewing low-level programming languages (C and Assembly)
 - 📫 How to reach me loisjanequillo@gmail.com
 
 <!---
